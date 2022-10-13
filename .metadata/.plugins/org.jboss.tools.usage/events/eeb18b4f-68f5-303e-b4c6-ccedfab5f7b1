@@ -1,0 +1,11 @@
+#Wed Oct 05 01:09:51 IST 2022
+ct=jbt
+a=finishWizard
+c=0
+s=2
+d=1664912391527
+v=2.2.400
+vl=How many times the 'Finish' button pressed during the day
+cmp=usage
+cl=org.eclipse.ui.internal.wizards.datatransfer.SmartImportWizard
+l=Wizard class name
